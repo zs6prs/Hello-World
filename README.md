@@ -13,3 +13,5 @@ Ive used Git hub in the past to get arduino lib and made changes to them
 I found as time whent by so many of my projects disapeared or got messed up by trying to add new features and overwriting the main Project 
 
 Thus the branches and main makes so much sense.
+
+Pretty cool
